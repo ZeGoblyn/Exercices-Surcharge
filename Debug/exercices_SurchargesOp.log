@@ -1,0 +1,3 @@
+﻿  vect.cpp
+C:\Users\Joffrey\Desktop\LA_LUDU\C++\exercices_SurchargesOp\exercices_SurchargesOp\vect.cpp(61,23): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+  exercices_SurchargesOp.vcxproj -> C:\Users\Joffrey\Desktop\LA_LUDU\C++\exercices_SurchargesOp\Debug\exercices_SurchargesOp.exe
